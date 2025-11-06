@@ -71,6 +71,9 @@
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right"></i>Academia</a></li>
       {% endif %}
+      {% if author.ideasrepec %}
+        <li><a href="{{ author.ideasrepec }}"><i class="ai ai-ideas-repec ai-fw icon-pad-right" aria-hidden="true"></i>Ideas RePEc</a></li>
+      {% endif %}
       {% if author.hal %}
         <li><a href="{{ author.hal }}"><i class="ai ai-hal ai-fw icon-pad-right"></i>HAL Science</a></li>
       {% endif %}
