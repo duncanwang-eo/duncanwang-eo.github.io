@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
+You can also find my publication profiles on Google Scholar, Scopus, Web of Science, ResearchGate, Academia, or HAL Science.
 
 Journal Articles
 ======
