@@ -24,7 +24,7 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 **Rusi Wang**, Jingyu Huang\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)] (EI, Scopus Q2)
 
-**Rusi Wang**, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)] (EI)
+**Rusi Wang\***, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)] (EI)
 
 会议论文
 ------
