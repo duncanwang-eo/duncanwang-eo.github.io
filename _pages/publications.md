@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300), [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023), [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2), [Academia](https://tongji.academia.edu/RusiWang), or [HAL Science](https://cv.hal.science/rusi-wang).
+You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300), and [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023) for citation metrics, and on [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2), [Academia](https://tongji.academia.edu/RusiWang), or [HAL Science](https://cv.hal.science/rusi-wang) where postprints (accepted manuscripts) are available for download.
 
 Journal Articles
 ======
