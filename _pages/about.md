@@ -20,4 +20,4 @@ I have been supervised by [Professor Chi Xie](https://scholar.google.com/citatio
   {{ news.content }}
 {% endfor %}
 
-[View all news →](/news)
+[View all news →](https://rusiwang99.github.io/news/)
