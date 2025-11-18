@@ -24,4 +24,6 @@ Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 Se
 
 Social Sciences Citation Index (SSCI), Web of Science Core Collection [Accession Number: [WOS:001602460900001](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001602460900001)]
 
+Ei Compendex [Accession number: 20254619488815]
+
 TRID Database [Accession Number: [01970786](https://trid.trb.org/View/2612176)]
