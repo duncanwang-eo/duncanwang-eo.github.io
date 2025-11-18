@@ -30,5 +30,5 @@ main:
   - title: "中文"
     url: /chinese/
 
-  - title: "Français"
-    url: /francais/
+#  - title: "Français"
+#    url: /francais/
