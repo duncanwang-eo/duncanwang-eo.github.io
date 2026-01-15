@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300), and [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023) for citation metrics, and on [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2), [Academia](https://tongji.academia.edu/RusiWang), or [HAL Science](https://cv.hal.science/rusi-wang) where postprints (accepted manuscripts) are available for download.
 
 In the lists below, * denotes the corresponding author.
@@ -22,3 +24,5 @@ Conference Papers
 ======
 
 **Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11-15 January 2026. [[View details](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market)][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)]
+
+</div>
