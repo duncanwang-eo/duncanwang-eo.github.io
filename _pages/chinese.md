@@ -32,4 +32,8 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 ------
 **Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11-15 January 2026.
 
+工作论文
+------
+**Rusi Wang**, Chi Xie\*. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics. (拟投稿)
+
 </div>
