@@ -5,7 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+
+So far, I have published several papers in peer-reviewed journals and conferences with <a href="https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&label=Citations&labelColor=f6f6f6&color=4091BD&style=flat" style="vertical-align: middle; height: 20px;"></a>.
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en){:target="_blank"}, [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300){:target="_blank"}, and [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023){:target="_blank"} for citation metrics, and on [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2){:target="_blank"}, [Academia](https://tongji.academia.edu/RusiWang){:target="_blank"}, or [HAL Science](https://cv.hal.science/rusi-wang){:target="_blank"} where postprints (accepted manuscripts) are available for download.
 
