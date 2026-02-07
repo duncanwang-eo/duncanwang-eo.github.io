@@ -59,7 +59,7 @@ author_profile: true
 * 2019年9月–2020年2月, 巴黎高等电子学院，国家留学基金委优秀本科生国际交流项目，本科插班生
 * 2014年9月–2017年6月，上海市延安中学
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">代表性学术成果</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.0em;">代表性学术成果</h1>
 
 ## 期刊论文
 <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>, <span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Dianlei Wang<span class="tooltip-text">王殿雷</span></span>, <span class="name-hover">Bo Zou<span class="tooltip-text">邹博</span></span>, <span class="name-hover">Xiaowen Fu<span class="tooltip-text">符啸文</span></span>, <span class="name-hover">Xiqun Chen<span class="tooltip-text">陈喜群</span></span>, <span class="name-hover">Qing-Chang Lu<span class="tooltip-text">路庆昌</span></span>. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. <i>Transport Policy</i>, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819){:target="_blank"}] (SSCI, IF=5.3, 中科院一区Top)
