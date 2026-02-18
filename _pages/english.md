@@ -169,7 +169,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Feb 2021 – Present<span class="expand-icon"></span>, <strong>Independent Sterilization Technical Expert</strong>, Duncan Sterilization Studio
+      Feb 2021 – Present<span class="expand-icon"></span>, <strong>Part-time Sterilization Expert</strong>, Duncan Sterilization Studio
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
