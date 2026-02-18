@@ -21,7 +21,7 @@ repository               : "duncanwang-eo/duncanwang-eo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "duncanicon.png"
   name             : "王学荣" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio: |
