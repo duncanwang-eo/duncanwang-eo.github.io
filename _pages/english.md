@@ -218,7 +218,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Jul 2017 – Dec 2020<span class="expand-icon"></span>, <strong>Senior Sterilization Expert</strong>, BD (Becton, Dickinson and Company) Rapid Diagnostic Products (Suzhou) Co., Ltd.
+      Jul 2017 – Dec 2020<span class="expand-icon"></span>, <strong>Senior Sterilization Lead</strong>, BD Rapid Diagnostic products (Suzhou) Co., Ltd.
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
@@ -246,7 +246,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Nov 1997 – Oct 2016<span class="expand-icon"></span>, <strong>Manager of Production / Quality Management</strong>, Gambro Medical Products (Shanghai) Co., Ltd.
+      Nov 1997 – Oct 2016<span class="expand-icon"></span>, <strong>QRM</strong>, Gambro Medical products  (Shanghai) Co.,Ltd.
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
@@ -291,7 +291,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Feb 1993 – Nov 1997<span class="expand-icon"></span>, <strong>R&D Supervisor / Quality and Regulatory Manager</strong>, Shanghai RAAS Blood Products Co., Ltd.
+      Feb 1993 – Nov 1997<span class="expand-icon"></span>, <strong>QRM</strong>, Shanghai RAAS Blood products Co., Ltd.
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Responsibilities:</span>
@@ -319,7 +319,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Sep 1991 – Feb 1993<span class="expand-icon"></span>, <strong>R&D Supervisor</strong>, DuPont Agrochemicals (Shanghai) Co., Ltd.
+      Sep 1991 – Feb 1993<span class="expand-icon"></span>, <strong>R&D Supervisor</strong>, Shanghai DuPont Agriculture products Co., Ltd.
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
@@ -333,7 +333,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Sep 1990 – Sep 1991<span class="expand-icon"></span>, <strong>Supervisor of Ecological Chemistry Laboratory</strong>, Shanghai Institute of Entomology, Chinese Academy of Sciences
+      Sep 1990 – Sep 1991<span class="expand-icon"></span>, <strong>Lab chief</strong>, Shanghai Institute of Entomology, Chinese Academy of Sciences
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
@@ -352,6 +352,6 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Education</h1>
 
 * Sep 1985 – Sep 1990, **Shanghai Institute of Materia Medica, Chinese Academy of Sciences**, Ph.D. in Organic Chemistry
-* Sep 1980 – Jul 1985, **East China Normal University**, B.S. in Chemistry (Polymer Materials)
+* Sep 1980 – Jul 1985, **East China Normal University**, B.S. in Chemistry (Polymer Science)
 
 </div>
