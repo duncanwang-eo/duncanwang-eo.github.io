@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "王学荣 (Duncan)" # "Your name / Site Title"
+title                    : "王学荣 (Duncan Wang)" # "Your name / Site Title"
 title_separator          : "-"
-name                     : &name "王学荣" # "Your name"
+name                     : &name "王学荣 (Duncan Wang)" # "Your name"
 description              : &description "personal description"
 url                      : https://duncanwang-eo.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "王学荣" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio: |
-    @上海异鸥技术工程中心
+    @邓肯灭菌工作室
   location         : "上海，中国"
   employer         : "中国科学院上海药物研究所"
   uri              : # URL
