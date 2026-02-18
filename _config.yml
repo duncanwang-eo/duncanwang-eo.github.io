@@ -21,36 +21,36 @@ repository               : "duncanwang-eo/duncanwang-eo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "phototjdxkjy.jpg"
+  avatar           : ""
   name             : "王学荣" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio: |
     @上海异鸥技术工程中心
   location         : "上海，中国"
-  employer         : "Tongji University"
+  employer         : "中国科学院上海药物研究所"
   uri              : # URL
-  email            : "rusiwang@tongji.edu.cn" 
+  email            : "duncanwang1203@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-3375-4178"
+  orcid            : 
   semantic         : # URL
   # pubmed         : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57941343300"
-  researcherid     : "https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023"
-  researchgate     : "https://www.researchgate.net/profile/Rusi-Wang-2"
-  academia         : "https://tongji.academia.edu/RusiWang"
-  ideasrepec       : "https://authors.repec.org/pro/pwa1190"
-  hal              : "https://cv.hal.science/rusi-wang"
-  ciencia-vitae    : "http://www.cienciavitae.pt//4F16-35F8-BA33"
+  scopus           : 
+  researcherid     : 
+  researchgate     : 
+  academia         : 
+  ideasrepec       : 
+  hal              : 
+  ciencia-vitae    : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "RusiWang99"
+  github           : "duncanwang-eo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "rusiwang"
+  linkedin         : 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
