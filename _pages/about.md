@@ -93,7 +93,7 @@ redirect_from:
 
 * <details>
     <summary>
-      2021年02月 – 至今<span class="expand-icon"></span>， <strong>独立灭菌技术专家</strong>， 邓肯灭菌工作室
+      2021年02月 – 至今<span class="expand-icon"></span>，<strong>独立灭菌技术专家</strong>，邓肯灭菌工作室
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -129,7 +129,7 @@ redirect_from:
 
 * <details>
     <summary>
-      2021年01月 – 2021年02月<span class="expand-icon"></span>， <strong>灭菌改进项目专家</strong>， 江苏省长丰医疗实业有限公司
+      2021年01月 – 2021年02月<span class="expand-icon"></span>，<strong>灭菌改进项目专家</strong>，江苏省长丰医疗实业有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -142,7 +142,7 @@ redirect_from:
 
 * <details>
     <summary>
-      2017年07月 – 2020年12月<span class="expand-icon"></span>， <strong>资深灭菌专家</strong>， 碧迪快速诊断产品（苏州）有限公司
+      2017年07月 – 2020年12月<span class="expand-icon"></span>，<strong>资深灭菌专家</strong>，碧迪快速诊断产品（苏州）有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -170,7 +170,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1997年11月 – 2016年10月<span class="expand-icon"></span>， <strong>医疗器械生产/质量管理</strong>， 金宝医疗器材（上海）有限公司
+      1997年11月 – 2016年10月<span class="expand-icon"></span>，<strong>医疗器械生产/质量管理</strong>，金宝医疗器材（上海）有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -215,7 +215,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1993年02月 – 1997年11月<span class="expand-icon"></span>， <strong>质量和法规经理</strong>， 上海莱士血液制品有限公司
+      1993年02月 – 1997年11月<span class="expand-icon"></span>，<strong>质量和法规经理</strong>，上海莱士血液制品有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -243,7 +243,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1991年09月 – 1993年02月<span class="expand-icon"></span>， <strong>研发部主管</strong>， 杜邦农化上海有限公司
+      1991年09月 – 1993年02月<span class="expand-icon"></span>，<strong>研发部主管</strong>，杜邦农化上海有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -257,7 +257,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1990年09月 – 1991年09月<span class="expand-icon"></span>， <strong>生态化学实验室主管</strong>， 中国科学院上海昆虫研究所
+      1990年09月 – 1991年09月<span class="expand-icon"></span>，<strong>生态化学实验室主管</strong>，中国科学院上海昆虫研究所
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -275,7 +275,7 @@ redirect_from:
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">教育背景</h1>
 
-* 1985年09月 – 1990年09月， **中国科学院上海药物研究所**， 有机化学专业， 博士学位
-* 1980年09月 – 1985年07月， **华东师范大学**， 化学专业（高分子材料方向）， 学士学位
+* 1985年09月 – 1990年09月，**中国科学院上海药物研究所**，有机化学专业，博士学位
+* 1980年09月 – 1985年07月，**华东师范大学**，化学专业（高分子材料方向），学士学位
 
 </div>
