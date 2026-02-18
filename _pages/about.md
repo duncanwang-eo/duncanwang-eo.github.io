@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎访问王学荣的个人主页！"
+title: "欢迎访问王博士的个人主页！"
 author_profile: true
 redirect_from: 
   - /about/
