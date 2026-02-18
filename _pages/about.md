@@ -9,28 +9,27 @@ redirect_from:
 
 <style>
   /* ====================
-     1. 产品展示模块样式 (新增)
+     1. 产品展示模块样式 (已调整尺寸)
      ==================== */
   .product-item {
     display: flex; /* 开启弹性布局，实现左图右文 */
     align-items: center; /* 垂直居中 */
-    margin-bottom: 15px; /* 产品之间的间距 */
-    padding: 10px;
-    border: 1px solid #f0f0f0; /* 极淡的边框，增加精致感 */
-    border-radius: 6px; /* 圆角 */
+    margin-bottom: 20px; /* 增加一点间距以适应更大的卡片 */
+    padding: 15px; /* 增加内边距 */
+    border: 1px solid #f0f0f0; 
+    border-radius: 6px; 
     background-color: #fff;
     transition: box-shadow 0.2s;
   }
   
-  /* 鼠标悬停时的小特效 */
   .product-item:hover {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 悬停阴影稍微加深 */
   }
 
-  /* 左侧图片容器 */
+  /* 左侧图片容器 - 宽度由 120px 增加到 170px (+40%) */
   .product-img-box {
-    flex: 0 0 120px; /* 固定宽度，确保图片大小一致 */
-    margin-right: 20px; /* 图片和文字的间距 */
+    flex: 0 0 170px; 
+    margin-right: 25px; /* 间距也稍微拉大 */
     border-radius: 4px;
     overflow: hidden;
     border: 1px solid #eee;
@@ -42,29 +41,38 @@ redirect_from:
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3; /* 强制锁定 4:3 比例 */
-    object-fit: cover; /* 保证图片填满且不变形 */
-    margin: 0; /* 消除默认边距 */
+    aspect-ratio: 4 / 3; /* 锁定 4:3 比例 */
+    object-fit: cover; 
+    margin: 0; 
   }
 
   /* 右侧文字 */
   .product-info {
-    flex: 1; /* 占满剩余空间 */
+    flex: 1; 
     font-size: 0.95em;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   .product-name {
     font-weight: bold;
-    font-size: 1.1em;
+    font-size: 1.2em; /* 标题字体稍微调大 */
     color: #333;
     display: block;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
   }
 
   .product-spec {
     color: #666;
-    font-size: 0.9em;
+    font-size: 0.95em;
+    display: block; /* 独占一行 */
+    margin-bottom: 6px;
+  }
+
+  .product-desc {
+    color: #444;
+    font-size: 0.95em;
+    display: block;
+    /* 可以在这里写具体的描述样式，目前留空 */
   }
 
   /* ====================
@@ -128,31 +136,33 @@ redirect_from:
 
 <div class="product-item">
   <div class="product-img-box">
-    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+1" alt="环氧乙烷标准品">
+    <img src="https://via.placeholder.com/600x450/e0e0e0/888888?text=Product+1" alt="环氧乙烷标准品">
   </div>
   <div class="product-info">
     <span class="product-name">环氧乙烷工作标准品 (EO)</span>
     <span class="product-spec">规格：10 mg/mL</span>
-  </div>
+    <span class="product-desc">产品描述：</span> </div>
 </div>
 
 <div class="product-item">
   <div class="product-img-box">
-    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+2" alt="2-氯乙醇标准品">
+    <img src="https://via.placeholder.com/600x450/e0e0e0/888888?text=Product+2" alt="2-氯乙醇标准品">
   </div>
   <div class="product-info">
     <span class="product-name">2-氯乙醇工作标准品 (ECH)</span>
     <span class="product-spec">规格：50 mg/mL</span>
+    <span class="product-desc">产品描述：</span>
   </div>
 </div>
 
 <div class="product-item">
   <div class="product-img-box">
-    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+3" alt="化学指示探针">
+    <img src="https://via.placeholder.com/600x450/e0e0e0/888888?text=Product+3" alt="化学指示探针">
   </div>
   <div class="product-info">
     <span class="product-name">化学指示探针</span>
     <span class="product-spec">尺寸：2 mm * 10 mm</span>
+    <span class="product-desc">产品描述：</span>
   </div>
 </div>
 
