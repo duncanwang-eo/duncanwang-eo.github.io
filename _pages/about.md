@@ -8,61 +8,105 @@ redirect_from:
 ---
 
 <style>
-  /* 1. 基础交互样式 */
+  /* ====================
+     1. 产品展示模块样式 (新增)
+     ==================== */
+  .product-item {
+    display: flex; /* 开启弹性布局，实现左图右文 */
+    align-items: center; /* 垂直居中 */
+    margin-bottom: 15px; /* 产品之间的间距 */
+    padding: 10px;
+    border: 1px solid #f0f0f0; /* 极淡的边框，增加精致感 */
+    border-radius: 6px; /* 圆角 */
+    background-color: #fff;
+    transition: box-shadow 0.2s;
+  }
+  
+  /* 鼠标悬停时的小特效 */
+  .product-item:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  /* 左侧图片容器 */
+  .product-img-box {
+    flex: 0 0 120px; /* 固定宽度，确保图片大小一致 */
+    margin-right: 20px; /* 图片和文字的间距 */
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid #eee;
+    background-color: #f9f9f9;
+  }
+
+  /* 图片本身 */
+  .product-img-box img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3; /* 强制锁定 4:3 比例 */
+    object-fit: cover; /* 保证图片填满且不变形 */
+    margin: 0; /* 消除默认边距 */
+  }
+
+  /* 右侧文字 */
+  .product-info {
+    flex: 1; /* 占满剩余空间 */
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+
+  .product-name {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #333;
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .product-spec {
+    color: #666;
+    font-size: 0.9em;
+  }
+
+  /* ====================
+     2. 之前的交互与折叠样式 (保持不变)
+     ==================== */
   details > summary {
     list-style: none;
     cursor: pointer;
-    /* 移除之前的额外内边距，使其高度和普通文本行一致，保证间距统一 */
     padding: 0; 
     transition: color 0.2s;
   }
   
-  /* 隐藏原生的小三角 */
-  details > summary::-webkit-details-marker {
-    display: none;
-  }
+  details > summary::-webkit-details-marker { display: none; }
 
-  /* 悬停变色 */
-  details > summary:hover {
-    color: #0056b3; 
-  }
+  details > summary:hover { color: #0056b3; }
 
-  /* 2. 小箭头样式 (放在日期右侧) */
   .expand-icon {
     color: #999;
-    margin-left: 5px; /* 箭头左侧留白 */
+    margin-left: 5px; 
     margin-right: 0px;
     font-size: 0.8em;
     display: inline-block;
     transition: transform 0.2s ease;
   }
   
-  /* 鼠标悬停时箭头变深 */
-  details > summary:hover .expand-icon {
-    color: #333;
-  }
+  details > summary:hover .expand-icon { color: #333; }
 
-  .expand-icon::before {
-    content: "►"; 
-  }
+  .expand-icon::before { content: "►"; }
   
-  details[open] .expand-icon {
-    transform: rotate(90deg);
-  }
+  details[open] .expand-icon { transform: rotate(90deg); }
 
-  /* 3. 展开后的详情框样式 */
   .details-content {
     margin-top: 5px; 
-    margin-bottom: 10px; /* 这里的间距只影响展开后的内容 */
+    margin-bottom: 10px; 
     padding: 15px; 
     background-color: #f9f9f9; 
-    border-left: 3px solid #ccc; /* 灰色边框，低调专业 */
+    border-left: 3px solid #ccc; 
     font-size: 0.95em;
     line-height: 1.6;
     text-align: justify; 
   }
 
-  /* 详情框内的标题 */
   .section-sub-title {
     font-weight: bold;
     color: #333;
@@ -70,24 +114,48 @@ redirect_from:
     margin-bottom: 5px;
     display: block;
   }
-  /* 第一行的标题不需要上边距 */
-  .section-sub-title:first-child {
-    margin-top: 0;
-  }
+  .section-sub-title:first-child { margin-top: 0; }
 
-  /* 列表样式 */
-  .details-content ul {
-    margin: 0;
-    padding-left: 20px;
-  }
-  .details-content li {
-    margin-bottom: 3px;
-  }
+  .details-content ul { margin: 0; padding-left: 20px; }
+  .details-content li { margin-bottom: 3px; }
 </style>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
 我是王学荣（Duncan Wang），拥有超过30年的生物医药与化工行业经验，曾在多家跨国知名企业担任管理及技术职务。目前常驻中国上海，专注于行业技术咨询与管理工作。
+
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">特供产品</h1>
+
+<div class="product-item">
+  <div class="product-img-box">
+    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+1" alt="环氧乙烷标准品">
+  </div>
+  <div class="product-info">
+    <span class="product-name">环氧乙烷工作标准品 (EO)</span>
+    <span class="product-spec">规格：10 mg/mL</span>
+  </div>
+</div>
+
+<div class="product-item">
+  <div class="product-img-box">
+    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+2" alt="2-氯乙醇标准品">
+  </div>
+  <div class="product-info">
+    <span class="product-name">2-氯乙醇工作标准品 (ECH)</span>
+    <span class="product-spec">规格：50 mg/mL</span>
+  </div>
+</div>
+
+<div class="product-item">
+  <div class="product-img-box">
+    <img src="https://via.placeholder.com/400x300/e0e0e0/888888?text=Product+3" alt="化学指示探针">
+  </div>
+  <div class="product-info">
+    <span class="product-name">化学指示探针</span>
+    <span class="product-spec">尺寸：2 mm * 10 mm</span>
+  </div>
+</div>
+
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">工作经历</h1>
 
