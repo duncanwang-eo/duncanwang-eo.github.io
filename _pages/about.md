@@ -170,7 +170,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1997年11月 – 2016年10月<span class="expand-icon"></span>， <strong>质量和法规经理 / 研发经理</strong>， 金宝医疗器材（上海）有限公司
+      1997年11月 – 2016年10月<span class="expand-icon"></span>， <strong>医疗器械生产/质量管理</strong>， 金宝医疗器材（上海）有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -215,7 +215,7 @@ redirect_from:
 
 * <details>
     <summary>
-      1993年02月 – 1997年11月<span class="expand-icon"></span>， <strong>研发主管 / 质量和法规经理</strong>， 上海莱士血液制品有限公司
+      1993年02月 – 1997年11月<span class="expand-icon"></span>， <strong>质量和法规经理</strong>， 上海莱士血液制品有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
