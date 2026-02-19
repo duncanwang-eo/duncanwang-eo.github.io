@@ -8,14 +8,11 @@ redirect_from:
 ---
 
 <style>
-  /* ====================
-     1. 产品展示模块样式 (已调整尺寸)
-     ==================== */
   .product-item {
-    display: flex; /* 开启弹性布局，实现左图右文 */
-    align-items: center; /* 垂直居中 */
-    margin-bottom: 20px; /* 增加一点间距以适应更大的卡片 */
-    padding: 15px; /* 增加内边距 */
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 15px;
     border: 1px solid #f0f0f0; 
     border-radius: 6px; 
     background-color: #fff;
@@ -23,30 +20,27 @@ redirect_from:
   }
   
   .product-item:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 悬停阴影稍微加深 */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   }
 
-  /* 左侧图片容器 - 宽度由 120px 增加到 170px (+40%) */
   .product-img-box {
     flex: 0 0 170px; 
-    margin-right: 25px; /* 间距也稍微拉大 */
+    margin-right: 25px;
     border-radius: 4px;
     overflow: hidden;
     border: 1px solid #eee;
     background-color: #f9f9f9;
   }
 
-  /* 图片本身 */
   .product-img-box img {
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3; /* 锁定 4:3 比例 */
+    aspect-ratio: 4 / 3;
     object-fit: cover; 
     margin: 0; 
   }
 
-  /* 右侧文字 */
   .product-info {
     flex: 1; 
     font-size: 0.95em;
@@ -55,7 +49,7 @@ redirect_from:
 
   .product-name {
     font-weight: bold;
-    font-size: 1.2em; /* 标题字体稍微调大 */
+    font-size: 1.2em;
     color: #333;
     display: block;
     margin-bottom: 6px;
@@ -64,7 +58,7 @@ redirect_from:
   .product-spec {
     color: #666;
     font-size: 0.95em;
-    display: block; /* 独占一行 */
+    display: block;
     margin-bottom: 6px;
   }
 
@@ -72,12 +66,8 @@ redirect_from:
     color: #444;
     font-size: 0.95em;
     display: block;
-    /* 可以在这里写具体的描述样式，目前留空 */
   }
 
-  /* ====================
-     2. 之前的交互与折叠样式 (保持不变)
-     ==================== */
   details > summary {
     list-style: none;
     cursor: pointer;
@@ -132,7 +122,7 @@ redirect_from:
 
 我是王学荣博士，具备30年医疗器械、制药行业跨国公司质量和法规管理经验和产品研发管理经验，同时具备环氧乙烷灭菌、辐照灭菌、湿热蒸汽灭菌全知识链的技术和经验。
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">特供产品</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">🧪 特供产品</h1>
 
 <div class="product-item">
   <div class="product-img-box">
@@ -167,7 +157,7 @@ redirect_from:
 </div>
 
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">工作经历</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">💼 工作经历</h1>
 
 * <details>
     <summary>
@@ -351,7 +341,7 @@ redirect_from:
     </div>
   </details>
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">教育背景</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">🎓 教育背景</h1>
 
 * 1985年09月 – 1990年09月，**中国科学院上海药物研究所**，有机化学专业，博士学位
 * 1980年09月 – 1985年07月，**华东师范大学**，化学专业（高分子材料方向），学士学位
